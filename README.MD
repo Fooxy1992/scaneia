@@ -9,6 +9,11 @@ A aplicação está disponível em produção através do seguinte link:
 
 ---
 
+## Github repository
+
+o repositório da app ficará disponível através do seguinte link:
+- [Scaneia](https://github.com/Fooxy1992/scaneia)
+
 ## Funcionalidades
 
 - **Cadastro e Autenticação de Usuários:**  
